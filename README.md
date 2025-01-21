@@ -1,7 +1,7 @@
 
 # Projeto Banco de Dados de um E-Commerce
 
-Olá, seja bem-vindo! Este repositório tem o objetivo de compartilhar sobre meu projeto de desenvolvimento e cronstrução de um Banco de Dados para um E-Commerce.
+Olá, seja bem-vindo! Este repositório tem o objetivo de compartilhar sobre meu projeto de desenvolvimento e construção de um Banco de Dados para um E-Commerce.
 
 
 ## Passo a passo
